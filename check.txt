@@ -1,0 +1,36 @@
+Gymnasium {
+ Name 
+Address
+Phone number
+},
+
+
+
+
+Members{
+Id 
+First name 
+Last name 
+Address 
+Gender
+Birth 
+},
+
+
+Sessions{
+Id 
+Sport 
+Schedule 
+member_id 
+Coach_id
+},
+
+
+
+Coach{
+    Id
+Last name 
+first name 
+Age
+Specialty 
+}
